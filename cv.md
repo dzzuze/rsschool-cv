@@ -21,3 +21,22 @@ A sociable and goal-oriented worker. The team can rely on me, I am fully committ
 * CSS
 
 * JavaScript
+
+## Code example
+```
+function calculator(a, b){
+    let sum = a + b;
+    let min = a - b;
+    let div = a / b;
+    let mul = a * b;
+    return {sum, min, div, nul};
+};
+```
+
+## Languages
+
+* Belarusian
+
+* Russian
+
+* English - A2
